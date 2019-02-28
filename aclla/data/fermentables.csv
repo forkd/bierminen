@@ -1,0 +1,340 @@
+Name,ISO3166-1-Alpha-2,Type,Tags,Color,Yield,Source,Date
+Munich,BE,Grain,basemalt,6,38,Brewer's Friend,2016-08-23
+Pale Ale,BE,Grain,basemalt,3.4,38,Brewer's Friend,2016-08-23
+Pilsner,BE,Grain,basemalt,1.6,37,Brewer's Friend,2016-08-23
+Wheat,BE,Grain,basemalt,1.8,38,Brewer's Friend,2016-08-23
+ESB Malt,CA,Grain,basemalt,3.5,36,Brewer's Friend,2016-08-23
+Honey Malt,CA,Grain,basemalt,25,37,Brewer's Friend,2016-08-23
+Munich Dark,CA,Grain,basemalt,32,34,Brewer's Friend,2016-08-23
+Munich Light,CA,Grain,basemalt,10,34,Brewer's Friend,2016-08-23
+Pale 2-Row,CA,Grain,basemalt,1.75,36,Brewer's Friend,2016-08-23
+Pale Wheat,CA,Grain,basemalt,2,36,Brewer's Friend,2016-08-23
+Abbey Malt,DE,Grain,basemalt,17,33,Brewer's Friend,2016-08-23
+Bohemian Pilsner,DE,Grain,basemalt,1.9,38,Brewer's Friend,2016-08-23
+Dark Munich,DE,Grain,basemalt,10,36,Brewer's Friend,2016-08-23
+Dark Wheat,DE,Grain,basemalt,6.5,39,Brewer's Friend,2016-08-23
+Floor-Malted Bohemian Pilsner,DE,Grain,basemalt,1.8,38,Brewer's Friend,2016-08-23
+Floor-Malted Bohemian Pilsner Dk,DE,Grain,basemalt,6.5,38,Brewer's Friend,2016-08-23
+Floor-Malted Bohemian Wheat,DE,Grain,basemalt,2,38,Brewer's Friend,2016-08-23
+Kölsch,DE,Grain,basemalt,4.4,37,Brewer's Friend,2016-08-23
+Munich Dark,DE,Grain,basemalt,15.5,37,Brewer's Friend,2016-08-23
+Munich Light,DE,Grain,basemalt,6,37,Brewer's Friend,2016-08-23
+Pale Ale,DE,Grain,basemalt,2.3,39,Brewer's Friend,2016-08-23
+Pale Wheat,DE,Grain,basemalt,1.5,39,Brewer's Friend,2016-08-23
+Pilsner,DE,Grain,basemalt,1.6,38,Brewer's Friend,2016-08-23
+Red X,DE,Grain,basemalt,12,36,Brewer's Friend,2016-08-23
+Rye,DE,Grain,basemalt,3.5,38,Brewer's Friend,2016-08-23
+Smoked Malt,DE,Grain,basemalt,3,37,Brewer's Friend,2016-08-23
+Spelt Malt,DE,Grain,basemalt,2,37,Brewer's Friend,2016-08-23
+Vienna,DE,Grain,basemalt,4,37,Brewer's Friend,2016-08-23
+Wheat Malt,DE,Grain,basemalt,2,37,Brewer's Friend,2016-08-23
+Enzyme Malt,FI,Grain,basemalt,0,35,Brewer's Friend,2016-08-23
+Munich Malt,FI,Grain,basemalt,7,36,Brewer's Friend,2016-08-23
+Organic Pilsner Malt,FI,Grain,basemalt,2,36,Brewer's Friend,2016-08-23
+Pale Ale Malt,FI,Grain,basemalt,2,36,Brewer's Friend,2016-08-23
+Pilsner Malt,FI,Grain,basemalt,2,37,Brewer's Friend,2016-08-23
+Vienna Malt,FI,Grain,basemalt,3,36,Brewer's Friend,2016-08-23
+Wheat Malt,FI,Grain,basemalt,2,38,Brewer's Friend,2016-08-23
+Ale Malt,IE,Grain,basemalt,3,37,Brewer's Friend,2016-08-23
+Distillers Malt,IE,Grain,basemalt,2,37,Brewer's Friend,2016-08-23
+Lager Malt,IE,Grain,basemalt,2,37,Brewer's Friend,2016-08-23
+Stout Malt,IE,Grain,basemalt,2,37,Brewer's Friend,2016-08-23
+Amber,UK,Grain,basemalt,27,32,Brewer's Friend,2016-08-23
+Golden Promise,UK,Grain,basemalt,3,37,Brewer's Friend,2016-08-23
+Halcyon,UK,Grain,basemalt,2,36,Brewer's Friend,2016-08-23
+Lager,UK,Grain,basemalt,1.4,38,Brewer's Friend,2016-08-23
+Malted Naked Oats,UK,Grain,basemalt,1.3,33,Brewer's Friend,2016-08-23
+Maris Otter Pale,UK,Grain,basemalt,3.75,38,Brewer's Friend,2016-08-23
+Mild,UK,Grain,basemalt,3,37,Brewer's Friend,2016-08-23
+Munich,UK,Grain,basemalt,6,37,Brewer's Friend,2016-08-23
+Oat Malt,UK,Grain,basemalt,2,28,Brewer's Friend,2016-08-23
+Optic,UK,Grain,basemalt,2.1,38,Brewer's Friend,2016-08-23
+Pale 2-Row,UK,Grain,basemalt,2.5,38,Brewer's Friend,2016-08-23
+Pearl,UK,Grain,basemalt,2.1,37,Brewer's Friend,2016-08-23
+Peated Malt,UK,Grain,basemalt,2.5,38,Brewer's Friend,2016-08-23
+Pilsen,UK,Grain,basemalt,1.8,36,Brewer's Friend,2016-08-23
+Wheat,UK,Grain,basemalt,2,37,Brewer's Friend,2016-08-23
+Aromatic Malt,US,Grain,basemalt,20,35,Brewer's Friend,2016-08-23
+Ashbourne Mild,US,Grain,basemalt,5.3,30,Brewer's Friend,2016-08-23
+Bonlander Munich,US,Grain,basemalt,10,36,Brewer's Friend,2016-08-23
+Munich - 60L,US,Grain,basemalt,60,33,Brewer's Friend,2016-08-23
+Munich - Dark 20L,US,Grain,basemalt,20,33,Brewer's Friend,2016-08-23
+Munich - Light 10L,US,Grain,basemalt,10,33,Brewer's Friend,2016-08-23
+Pale 2-Row,US,Grain,basemalt,1.8,37,Brewer's Friend,2016-08-23
+Pale 2-Row - Toasted,US,Grain,basemalt,30,33,Brewer's Friend,2016-08-23
+Pale 6-Row,US,Grain,basemalt,1.8,35,Brewer's Friend,2016-08-23
+Pale Ale,US,Grain,basemalt,3.5,37,Brewer's Friend,2016-08-23
+Pilsner,US,Grain,basemalt,1.8,37,Brewer's Friend,2016-08-23
+Red Wheat,US,Grain,basemalt,2.5,38,Brewer's Friend,2016-08-23
+Rye,US,Grain,basemalt,3.5,38,Brewer's Friend,2016-08-23
+Smoked Malt,US,Grain,basemalt,5,37,Brewer's Friend,2016-08-23
+Vienna,US,Grain,basemalt,4,35,Brewer's Friend,2016-08-23
+Wheat,US,Grain,basemalt,1.8,38,Brewer's Friend,2016-08-23
+White Wheat,US,Grain,basemalt,2.8,40,Brewer's Friend,2016-08-23
+Cara 20L,BE,Grain,crystalmalt,22,34,Brewer's Friend,2016-08-23
+Cara 45L,BE,Grain,crystalmalt,42,34,Brewer's Friend,2016-08-23
+Caramel Pils,BE,Grain,crystalmalt,8,34,Brewer's Friend,2016-08-23
+CaraMunich,BE,Grain,crystalmalt,50,33,Brewer's Friend,2016-08-23
+CaraVienne,BE,Grain,crystalmalt,20,34,Brewer's Friend,2016-08-23
+CaraAmber,DE,Grain,crystalmalt,23,34,Brewer's Friend,2016-08-23
+CaraAroma,DE,Grain,crystalmalt,130,34,Brewer's Friend,2016-08-23
+CaraBelge,DE,Grain,crystalmalt,13.6,33,Brewer's Friend,2016-08-23
+CaraBohemian,DE,Grain,crystalmalt,75,33,Brewer's Friend,2016-08-23
+CaraFoam,DE,Grain,crystalmalt,1.8,37,Brewer's Friend,2016-08-23
+CaraHell,DE,Grain,crystalmalt,11,34,Brewer's Friend,2016-08-23
+Caramel Pils,DE,Grain,crystalmalt,2.4,35,Brewer's Friend,2016-08-23
+Caramel Wheat,DE,Grain,crystalmalt,46,34,Brewer's Friend,2016-08-23
+CaraMunich I,DE,Grain,crystalmalt,39,34,Brewer's Friend,2016-08-23
+CaraMunich II,DE,Grain,crystalmalt,46,34,Brewer's Friend,2016-08-23
+CaraMunich III,DE,Grain,crystalmalt,57,34,Brewer's Friend,2016-08-23
+Carapils,DE,Grain,crystalmalt,1.3,35,Brewer's Friend,2016-08-23
+CaraRed,DE,Grain,crystalmalt,20,34,Brewer's Friend,2016-08-23
+Cara Pale,FI,Grain,crystalmalt,4,35,Brewer's Friend,2016-08-23
+Cara Plus 100,FI,Grain,crystalmalt,38,35,Brewer's Friend,2016-08-23
+Cara Plus 150,FI,Grain,crystalmalt,57,35,Brewer's Friend,2016-08-23
+Cara Plus 200,FI,Grain,crystalmalt,76,35,Brewer's Friend,2016-08-23
+Cara Plus 250,FI,Grain,crystalmalt,94,35,Brewer's Friend,2016-08-23
+Crystal Malt 100,FI,Grain,crystalmalt,38,35,Brewer's Friend,2016-08-23
+Crystal Malt 150,FI,Grain,crystalmalt,57,35,Brewer's Friend,2016-08-23
+Crystal Malt 250,FI,Grain,crystalmalt,94,35,Brewer's Friend,2016-08-23
+Crystal Malt 300,FI,Grain,crystalmalt,113,35,Brewer's Friend,2016-08-23
+Crystal Malt 50,FI,Grain,crystalmalt,19,35,Brewer's Friend,2016-08-23
+Cara Malt,UK,Grain,crystalmalt,17.5,35,Brewer's Friend,2016-08-23
+Carastan (30/37),UK,Grain,crystalmalt,34,35,Brewer's Friend,2016-08-23
+Carastan Light (15L),UK,Grain,crystalmalt,15,35,Brewer's Friend,2016-08-23
+Crystal 140L,UK,Grain,crystalmalt,140,33,Brewer's Friend,2016-08-23
+Crystal 15L,UK,Grain,crystalmalt,15,34,Brewer's Friend,2016-08-23
+Crystal 30L,UK,Grain,crystalmalt,30,34,Brewer's Friend,2016-08-23
+Crystal 45L,UK,Grain,crystalmalt,45,34,Brewer's Friend,2016-08-23
+Crystal 50L,UK,Grain,crystalmalt,50,34,Brewer's Friend,2016-08-23
+Crystal 60L,UK,Grain,crystalmalt,60,34,Brewer's Friend,2016-08-23
+Crystal 70L,UK,Grain,crystalmalt,70,34,Brewer's Friend,2016-08-23
+Crystal 90L,UK,Grain,crystalmalt,90,33,Brewer's Friend,2016-08-23
+Crystal Rye,UK,Grain,crystalmalt,90,33,Brewer's Friend,2016-08-23
+Dark Crystal 80L,UK,Grain,crystalmalt,80,33,Brewer's Friend,2016-08-23
+Dextrine Malt,UK,Grain,crystalmalt,1.8,33,Brewer's Friend,2016-08-23
+Extra Dark Crystal 120L,UK,Grain,crystalmalt,120,33,Brewer's Friend,2016-08-23
+Extra Dark Crystal 160L,UK,Grain,crystalmalt,160,33,Brewer's Friend,2016-08-23
+CaraCrystal Wheat Malt,US,Grain,crystalmalt,55,34,Brewer's Friend,2016-08-23
+Caramel / Crystal 10L,US,Grain,crystalmalt,10,35,Brewer's Friend,2016-08-23
+Caramel / Crystal 120L,US,Grain,crystalmalt,120,33,Brewer's Friend,2016-08-23
+Caramel / Crystal 150L,US,Grain,crystalmalt,150,33,Brewer's Friend,2016-08-23
+Caramel / Crystal 15L,US,Grain,crystalmalt,15,35,Brewer's Friend,2016-08-23
+Caramel / Crystal 20L,US,Grain,crystalmalt,20,35,Brewer's Friend,2016-08-23
+Caramel / Crystal 30L,US,Grain,crystalmalt,30,34,Brewer's Friend,2016-08-23
+Caramel / Crystal 40L,US,Grain,crystalmalt,40,34,Brewer's Friend,2016-08-23
+Caramel / Crystal 60L,US,Grain,crystalmalt,60,34,Brewer's Friend,2016-08-23
+Caramel / Crystal 75L,US,Grain,crystalmalt,75,33,Brewer's Friend,2016-08-23
+Caramel / Crystal 80L,US,Grain,crystalmalt,80,33,Brewer's Friend,2016-08-23
+Caramel / Crystal 90L,US,Grain,crystalmalt,90,33,Brewer's Friend,2016-08-23
+Carapils (Dextrine Malt),US,Grain,crystalmalt,1.8,33,Brewer's Friend,2016-08-23
+Amber,,Extract,dryextract,10,42,Brewer's Friend,2016-08-24
+Dark,,Extract,dryextract,30,44,Brewer's Friend,2016-08-24
+Extra Light,,Extract,dryextract,2.5,42,Brewer's Friend,2016-08-24
+Light,,Extract,dryextract,4,42,Brewer's Friend,2016-08-24
+Munich,,Extract,dryextract,8,42,Brewer's Friend,2016-08-24
+Pilsen,,Extract,dryextract,2,42,Brewer's Friend,2016-08-24
+Rice Syrup Solids,,Extract,dryextract,1,37,Brewer's Friend,2016-08-23
+Wheat,,Extract,dryextract,3,42,Brewer's Friend,2016-08-24
+Buckwheat Malt,US,Grain,glutenfree,2,25,Brewer's Friend,2016-08-23
+Crystal 10L Millet Malt,US,Grain,glutenfree,10,25,Brewer's Friend,2016-08-23
+Crystal 30L Millet Malt,US,Grain,glutenfree,30,25,Brewer's Friend,2016-08-23
+Dark Roasted Millet Malt,US,Grain,glutenfree,300,25,Brewer's Friend,2016-08-23
+Light Roasted Millet Malt,US,Grain,glutenfree,7,25,Brewer's Friend,2016-08-23
+Medium Roasted Millet Malt,US,Grain,glutenfree,36,25,Brewer's Friend,2016-08-23
+Munich Millet Malt,US,Grain,glutenfree,7,25,Brewer's Friend,2016-08-23
+Pale Millet Malt,US,Grain,glutenfree,1.5,30,Brewer's Friend,2016-08-23
+Amber,,Extract,liquidextract,10,35,Brewer's Friend,2016-08-24
+Dark,,Extract,liquidextract,30,35,Brewer's Friend,2016-08-24
+Extra Light,,Extract,liquidextract,2.5,37,Brewer's Friend,2016-08-24
+Light,,Extract,liquidextract,4,35,Brewer's Friend,2016-08-24
+Maris Otter,,Extract,liquidextract,4,36,Brewer's Friend,2016-08-24
+Munich,,Extract,liquidextract,8,35,Brewer's Friend,2016-08-24
+Pilsen,,Extract,liquidextract,2,35,Brewer's Friend,2016-08-24
+Rye,,Extract,liquidextract,9,35,Brewer's Friend,2016-08-24
+Wheat,,Extract,liquidextract,3,35,Brewer's Friend,2016-08-24
+Aromatic,BE,Grain,roastedmalt,38,33,Brewer's Friend,2016-08-23
+Biscuit,BE,Grain,roastedmalt,23,35,Brewer's Friend,2016-08-23
+Chocolate,BE,Grain,roastedmalt,340,30,Brewer's Friend,2016-08-23
+De-Bittered Black,BE,Grain,roastedmalt,566,34,Brewer's Friend,2016-08-23
+Roasted Barley,BE,Grain,roastedmalt,575,30,Brewer's Friend,2016-08-23
+Special B,BE,Grain,roastedmalt,115,34,Brewer's Friend,2016-08-23
+Carafa I,DE,Grain,roastedmalt,340,32,Brewer's Friend,2016-08-23
+Carafa II,DE,Grain,roastedmalt,425,32,Brewer's Friend,2016-08-23
+Carafa III,DE,Grain,roastedmalt,535,32,Brewer's Friend,2016-08-23
+Chocolate Rye,DE,Grain,roastedmalt,240,31,Brewer's Friend,2016-08-23
+Chocolate Wheat,DE,Grain,roastedmalt,413,31,Brewer's Friend,2016-08-23
+De-Husked Caraf I,DE,Grain,roastedmalt,340,32,Brewer's Friend,2016-08-23
+De-Husked Caraf II,DE,Grain,roastedmalt,418,32,Brewer's Friend,2016-08-23
+De-Husked Caraf III,DE,Grain,roastedmalt,470,32,Brewer's Friend,2016-08-23
+Melanoidin,DE,Grain,roastedmalt,25,37,Brewer's Friend,2016-08-23
+Black Malt,FI,Grain,roastedmalt,526,30,Brewer's Friend,2016-08-23
+Chocolate Malt,FI,Grain,roastedmalt,338,31,Brewer's Friend,2016-08-23
+Cookie Malt,FI,Grain,roastedmalt,19,37,Brewer's Friend,2016-08-23
+Dark Ale,FI,Grain,roastedmalt,14,35,Brewer's Friend,2016-08-23
+Melanoid Malt,FI,Grain,roastedmalt,27,35,Brewer's Friend,2016-08-23
+Black Patent,UK,Grain,roastedmalt,525,27,Brewer's Friend,2016-08-23
+Brown,UK,Grain,roastedmalt,65,32,Brewer's Friend,2016-08-23
+Chocolate,UK,Grain,roastedmalt,425,34,Brewer's Friend,2016-08-23
+Coffee Malt,UK,Grain,roastedmalt,150,36,Brewer's Friend,2016-08-23
+Pale Chocolate,UK,Grain,roastedmalt,207,33,Brewer's Friend,2016-08-23
+Roasted Barley,UK,Grain,roastedmalt,550,29,Brewer's Friend,2016-08-23
+Black Barley,US,Grain,roastedmalt,530,27,Brewer's Friend,2016-08-23
+Black Malt,US,Grain,roastedmalt,500,28,Brewer's Friend,2016-08-23
+Blackprinz,US,Grain,roastedmalt,500,36,Brewer's Friend,2016-08-23
+CaraBrown,US,Grain,roastedmalt,55,34,Brewer's Friend,2016-08-23
+Chocolate,US,Grain,roastedmalt,350,29,Brewer's Friend,2016-08-23
+Dark Chocolate,US,Grain,roastedmalt,420,29,Brewer's Friend,2016-08-23
+Midnight Wheat Malt,US,Grain,roastedmalt,550,33,Brewer's Friend,2016-08-23
+Roasted Barley,US,Grain,roastedmalt,300,33,Brewer's Friend,2016-08-23
+Special Roast,US,Grain,roastedmalt,50,33,Brewer's Friend,2016-08-23
+Victory,US,Grain,roastedmalt,28,34,Brewer's Friend,2016-08-23
+Flaked Barley,,Adjunct,,2.2,32,Brewer's Friend,2016-08-23
+Flaked Corn,,Adjunct,,0.5,40,Brewer's Friend,2016-08-23
+Flaked Oats,,Adjunct,,2.2,33,Brewer's Friend,2016-08-23
+Flaked Rice,,Adjunct,,0.5,40,Brewer's Friend,2016-08-23
+Flaked Rye,,Adjunct,,2.8,36,Brewer's Friend,2016-08-23
+Flaked Wheat,,Adjunct,,2,34,Brewer's Friend,2016-08-23
+Grits,,Adjunct,,1,37,Brewer's Friend,2016-08-23
+Rice Hulls,,Adjunct,,0,0,Brewer's Friend,2016-08-23
+Rolled Oats,,Adjunct,,2.2,33,Brewer's Friend,2016-08-23
+Torrified Barley,,Adjunct,,2,36,Brewer's Friend,2016-08-23
+Torrified Wheat,,Adjunct,,2,36,Brewer's Friend,2016-08-23
+Unmalted Wheat,BE,Grain,,2,36,Brewer's Friend,2016-08-23
+Acidulated Malt,DE,Grain,,3.4,27,Brewer's Friend,2016-08-23
+Golden Naked Oats,UK,Grain,,10,33,Brewer's Friend,2016-08-23
+Belgian Candi Sugar - Amber/Brown (60L),,Sugar,,60,38,Brewer's Friend,2016-08-23
+Belgian Candi Sugar - Clear/Blond (0L),,Sugar,,0,38,Brewer's Friend,2016-08-23
+Belgian Candi Sugar - Dark (275L),,Sugar,,275,38,Brewer's Friend,2016-08-23
+Belgian Candi Syrup - Amber (40L),,Sugar,,40,32,Brewer's Friend,2016-08-23
+Belgian Candi Syrup - Clear (0L),,Sugar,,0,32,Brewer's Friend,2016-08-23
+Belgian Candi Syrup - D-180,,Sugar,,180,32,Brewer's Friend,2016-08-23
+Belgian Candi Syrup - D-45,,Sugar,,45,32,Brewer's Friend,2016-08-23
+Belgian Candi Syrup - D-90,,Sugar,,90,32,Brewer's Friend,2016-08-23
+Belgian Candi Syrup - D2 (160L),,Sugar,,160,32,Brewer's Friend,2016-08-23
+Belgian Candi Syrup - Dark (80L),,Sugar,,80,32,Brewer's Friend,2016-08-23
+Brown Rice Syrup,,Sugar,,2,44,Brewer's Friend,2016-08-23
+Brown Sugar,,Sugar,,15,45,Brewer's Friend,2016-08-23
+Cane Sugar,,Sugar,,0,46,Brewer's Friend,2016-08-23
+Corn Sugar - Dextrose,,Sugar,,0.5,46,Brewer's Friend,2016-08-23
+Corn Syrup,,Sugar,,0.5,37,Brewer's Friend,2016-08-23
+Honey,,Sugar,,2,42,Brewer's Friend,2016-08-23
+Honey (Buckwheat),,Sugar,,2,42,Brewer's Friend,2016-08-23
+Invert Sugar,,Sugar,,1,46,Brewer's Friend,2016-08-23
+Lactose (Milk Sugar),,Sugar,,1,41,Brewer's Friend,2016-08-23
+Maltodextrin,,Sugar,,0,39,Brewer's Friend,2016-08-23
+Maple Syrup,,Sugar,,35,30,Brewer's Friend,2016-08-23
+Molasses,,Sugar,,80,36,Brewer's Friend,2016-08-23
+Soft Candi Sugar - Blond,,Sugar,,5,38,Brewer's Friend,2016-08-23
+Soft Candi Sugar - Brown,,Sugar,,60,38,Brewer's Friend,2016-08-23
+Turbinado,,Sugar,,10,44,Brewer's Friend,2016-08-23
+White Sorghum Syrup,,Sugar,,1.5,44,Brewer's Friend,2016-08-23
+CaraAmber,DE,Grain,crystalmalt,27,33,BYO,2016-08-23
+CaraAroma,DE,Grain,crystalmalt,150,34,BYO,2016-08-23
+CaraFoam,DE,Grain,crystalmalt,1.8,33,BYO,2016-08-23
+CaraHell,DE,Grain,crystalmalt,10,34,BYO,2016-08-23
+CaraRed,DE,Grain,crystalmalt,17.5,33,BYO,2016-08-23
+Aromatic Malt,BE,Grain,,23,36,BYO,2016-08-23
+Belgian Pale Ale Malt,BE,Grain,,3.25,38,BYO,2016-08-23
+Biscuit Malt,BE,Grain,,24,35,BYO,2016-08-23
+Caramel Pils,BE,Grain,,7.5,30,BYO,2016-08-23
+Caramunich Malt,BE,Grain,,56,33,BYO,2016-08-23
+Caravienne Malt,BE,Grain,,21.5,34,BYO,2016-08-23
+Chocolate Malt,BE,Grain,,340,30,BYO,2016-08-23
+De-Bittered Black Malt,BE,Grain,,550,30,BYO,2016-08-23
+Pale Wheat,BE,Grain,,1.6,38,BYO,2016-08-23
+Pilsen Malt,BE,Grain,,1.5,37,BYO,2016-08-23
+Roasted Wheat,BE,Grain,,12,36,BYO,2016-08-23
+Special B Malt,BE,Grain,,175,30,BYO,2016-08-23
+Acidulated (Sauer) Malt,DE,Grain,,2.25,33,BYO,2016-08-23
+Cara Wheat Malt,DE,Grain,,45.5,35,BYO,2016-08-23
+Carafa I ,DE,Grain,,320,38,BYO,2016-08-23
+Carafa II ,DE,Grain,,412.5,38,BYO,2016-08-23
+Carafa III ,DE,Grain,,525,38,BYO,2016-08-23
+CaraMunich Malt I ,DE,Grain,,34,34,BYO,2016-08-23
+CaraMunich Malt II ,DE,Grain,,46,34,BYO,2016-08-23
+CaraMunich Malt III ,DE,Grain,,56.5,34,BYO,2016-08-23
+Chocolate Rye Malt,DE,Grain,,245,30,BYO,2016-08-23
+Chocolate Wheat Malt,DE,Grain,,412.5,38,BYO,2016-08-23
+Dark Munich Malt,DE,Grain,,9,34,BYO,2016-08-23
+Kölsch Malt,DE,Grain,,4.5,34,BYO,2016-08-23
+Light Munich Malt,DE,Grain,,5.5,34,BYO,2016-08-23
+Melanoidin Malt,DE,Grain,,27,33,BYO,2016-08-23
+Rauch Smoked Malt,DE,Grain,,3,37,BYO,2016-08-23
+Rye Malt,DE,Grain,,3.55,29,BYO,2016-08-23
+Vienna Malt,DE,Grain,,3.55,35,BYO,2016-08-23
+Wheat Malt Dark,DE,Grain,,7,39,BYO,2016-08-23
+Wheat Malt Light,DE,Grain,,1.75,39,BYO,2016-08-23
+Amber Malt,UK,Grain,,35,32,BYO,2016-08-23
+Amber Malt,UK,Grain,,65,32,BYO,2016-08-23
+Black Patent Malt,UK,Grain,,550,26,BYO,2016-08-23
+Brown Malt,UK,Grain,,65,32,BYO,2016-08-23
+Cara-Pils Dextrin,UK,Grain,,12,33,BYO,2016-08-23
+Chocolate Malt,UK,Grain,,435,34,BYO,2016-08-23
+Crystal Malt,UK,Grain,,57.5,34,BYO,2016-08-23
+Dark Crystal Malt,UK,Grain,,166.5,34,BYO,2016-08-23
+Lager Malt,UK,Grain,,1.6,38,BYO,2016-08-23
+Maris Otter Pale Malt,UK,Grain,,3,38,BYO,2016-08-23
+Mild Ale Malt,UK,Grain,,2.5,37,BYO,2016-08-23
+Oat Malt,UK,Grain,,4,34,BYO,2016-08-23
+Pale Ale,UK,Grain,,2.2,38,BYO,2016-08-23
+Pale Chocolate Malt,UK,Grain,,215,34,BYO,2016-08-23
+Peat Smoked Malt,UK,Grain,,2.8,34,BYO,2016-08-23
+Roasted Barley,UK,Grain,,500,25,BYO,2016-08-23
+Toasted Pale Malt,UK,Grain,,25,38,BYO,2016-08-23
+Torrified Wheat,UK,Grain,,1.25,36,BYO,2016-08-23
+Wheat Malt,UK,Grain,,2,38,BYO,2016-08-23
+Black Barley,US,Grain,,525,25,BYO,2016-08-23
+Black Patent Malt,US,Grain,,500,26,BYO,2016-08-23
+Chocolate Malt,US,Grain,,350,34,BYO,2016-08-23
+Crystal Malt,US,Grain,,40,34,BYO,2016-08-23
+Crystal Malt,US,Grain,,90,34,BYO,2016-08-23
+Crystal Malt,US,Grain,,60,34,BYO,2016-08-23
+Crystal Malt,US,Grain,,30,34,BYO,2016-08-23
+Crystal Malt,US,Grain,,20,34,BYO,2016-08-23
+Crystal Malt,US,Grain,,120,34,BYO,2016-08-23
+Crystal Malt,US,Grain,,10,34,BYO,2016-08-23
+Crystal Malt,US,Grain,,80,34,BYO,2016-08-23
+Dextrin Malt (carapils),US,Grain,,1.5,33,BYO,2016-08-23
+Munich Malt,US,Grain,,10,34,BYO,2016-08-23
+Pale Malt (Brewers 2-row),US,Grain,,1.8,37,BYO,2016-08-23
+Pale Malt (Brewers 6-row),US,Grain,,1.8,35,BYO,2016-08-23
+Roasted Barley,US,Grain,,300,25,BYO,2016-08-23
+Special Roast,US,Grain,,50,35,BYO,2016-08-23
+Victory Malt,US,Grain,,25,34,BYO,2016-08-23
+Vienna Malt,US,Grain,,3.75,35,BYO,2016-08-23
+Wheat Malt,US,Grain,,2,38,BYO,2016-08-23
+White Wheat Malt,US,Grain,,2,37,BYO,2016-08-23
+Belgian Candi Sugar (clear),,Sugar,,0.5,36,BYO,2016-08-23
+Brown Sugar,,Sugar,,40,46,BYO,2016-08-23
+Candi Sugar (amber),,Sugar,,75,36,BYO,2016-08-23
+Candi Sugar (dark),,Sugar,,275,36,BYO,2016-08-23
+Corn Sugar,,Sugar,,1,37,BYO,2016-08-23
+Dark Brown Sugar,,Sugar,,60,46,BYO,2016-08-23
+Demerara Sugar,,Sugar,,1,42,BYO,2016-08-23
+Dextrose (glucose),,Sugar,,1,37,BYO,2016-08-23
+Dry Malt Extract,,Sugar,,,44,BYO,2016-08-23
+Honey,,Sugar,,,32,BYO,2016-08-23
+Invert Sugar,,Sugar,,,46,BYO,2016-08-23
+Lactose,,Sugar,,,43,BYO,2016-08-23
+Licorice Stick,,Sugar,,,,BYO,2016-08-23
+Lyle's Golden Syrup,,Sugar,,0,36,BYO,2016-08-23
+Maple Sap,,Sugar,,3,9,BYO,2016-08-23
+Maple Syrup,,Sugar,,35,30,BYO,2016-08-23
+Molasses,,Sugar,,80,36,BYO,2016-08-23
+Rice Solids,,Sugar,,0,40,BYO,2016-08-23
+Sucrose (white table sugar),,Sugar,,,46,BYO,2016-08-23
+Syrup Malt Extract,,Sugar,,,35,BYO,2016-08-23
+Treacle,,Sugar,,100,36,BYO,2016-08-23
+Flaked Barley,,,,1.5,32,BYO,2016-08-23
+Flaked Maize,,,,1,37,BYO,2016-08-23
+Flaked Oats,,,,1,33,BYO,2016-08-23
+Flaked Rye,,,,2,36,BYO,2016-08-23
+Flaked Wheat,,,,2,36,BYO,2016-08-23
+Franco-Belges Kiln Coffee Malt,,,,165,,BYO,2016-08-23
+Gambrinus Honey Malt,,,,25,34,BYO,2016-08-23
+Grits,,,,1.25,37,BYO,2016-08-23
+Irish Moss,,,,,,BYO,2016-08-23
+Malto Dextrin,,,,,43,BYO,2016-08-23
+Oak Chips,,,,,,BYO,2016-08-23
+Scotmalt Golden Promise,,,,2.4,38,BYO,2016-08-23
